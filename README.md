@@ -1,4 +1,4 @@
-some usefull commands for git
+# Git Commands
 
 ### Change User
 ```bash
